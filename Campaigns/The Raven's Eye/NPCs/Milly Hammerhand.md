@@ -1,0 +1,6 @@
+---
+Faction: 
+Location:
+---
+
+![[milly.png]]
