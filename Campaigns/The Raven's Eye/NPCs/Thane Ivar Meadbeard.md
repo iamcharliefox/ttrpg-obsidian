@@ -1,0 +1,5 @@
+---
+Faction:
+  - "[[The Vanguard]]"
+Location:
+---
